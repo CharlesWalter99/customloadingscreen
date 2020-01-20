@@ -11,6 +11,7 @@ win32:
   artifacts:
     paths:
       - CustomLoadScreen.asi
+      - CustomLoadScreen.png
   cache:
     paths:
       - "release/*.o"
